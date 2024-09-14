@@ -1,9 +1,8 @@
 👋 Hi, I’m @dutch-casa
 - 👀 I’m interested in
-  -   Cybersecurity
   -   Deep Learning
   -   Computer Vision
-  -   Bug Bounty
+  -   UI/UX Design
   -   Music
 - 🌱 I’m currently learning
   - Secure Application Development

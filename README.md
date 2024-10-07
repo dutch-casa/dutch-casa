@@ -1,7 +1,7 @@
 👋 Hi, I’m @dutch-casa
 - 👀 I’m interested in
   -   Deep Learning
-  -   Computer Vision
+  -   Natural Language Processing
   -   UI/UX Design
   -   Music
 - 🌱 I’m currently learning

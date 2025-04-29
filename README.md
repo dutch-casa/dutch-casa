@@ -1,12 +1,12 @@
 👋 Hi, I’m @dutch-casa
 - 👀 I’m interested in
+  -   Distributed Systems
   -   Deep Learning
   -   Natural Language Processing
   -   UI/UX Design
-  -   Music
 - 🌱 I’m currently learning
-  - Secure Application Development
   - React
+  - Elixir
   - AWS
   - PyTorch
   - Concepts of Deep Learning
